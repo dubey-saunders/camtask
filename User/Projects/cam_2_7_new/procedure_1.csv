@@ -14,6 +14,5 @@ item,phasetype,max_time,text,shuffle_1,survey,weight,left_back,right_back,lock_i
 32 to 61,cam_3,,,trial,,1,../User/Stimuli/cam/maroon.jpg,../User/Stimuli/cam/orange.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,maroon,orange,Noillusion,illusion,Press Z to unlock,Press M to unlock,
 0,survey,,,off,hsps_ant.csv,1,,,,,,,,,,,,
 0,instruct,,"<span style=""font-size:40px""><b>Click on ""Proceed"" to save your data. </span></b><br><br> 
-<span style=""font-size:25px""><b>You will receive a debrief of this study in an email.</span></b><br><br>
 <span style=""font-size:25px""><b>You've completed this part of the study! </span></b><br><br>
 <span style=""font-size:25px""><b>Please proceed, and DO NOT CLOSE THE WINDOW before you have received confirmation that the data has been successfully submitted </span></b>",off,,1,,,,,,,,,,,,
