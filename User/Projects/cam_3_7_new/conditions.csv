@@ -1,0 +1,3 @@
+name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,
+condition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,
+condition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,

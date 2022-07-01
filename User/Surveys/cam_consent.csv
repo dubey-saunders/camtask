@@ -1,0 +1,26 @@
+item_name,text,type,answers,values,optional,question_width,side_by_side,
+Instructions1,"Title of project: Exploring intolerance of uncertainty and sensory sensitivity as mechanisms of 
+anxiety in autistic and neurotypical adults.",instruct,,,,,,
+Instructions2,"Researcher: Jasmine Saunders msxjs23@nottingham.ac.uk |
+Supervisor: Dr Indu Dubey indu.dubey2@nottingham.ac.uk | Collaborator: Dr Anthony Haffey, Lecturer, School of Psychology & Clinical Language Sciences, 
+University of Reading a.haffey@reading.ac.uk",instruct,,,,,,
+instructions3,Ethics Reference Number: 2884,instruct,,,,,,
+Instructions4,Please select the following statements if you agree with them. Please feel free to withdraw at any point.,instruct,,,,,,
+cam_consent_1,1. Have you read and understood the Participant Information?,likert,Agree,1,No,70%,yes,
+cam_consent_2,"2. Do you agree to take part in an experiment investigating intolerance of uncertainty and 
+sensory sensitivity as mechanisms of anxiety in adults with and without autism?",likert,Agree,1,No,70%,yes,
+cam_consent_3,"3. Do you know how to contact the researcher if you have questions
+about this study?",likert,Agree,1,No,70%,yes,
+cam_consent_4,"4. Do you understand that you are free to withdraw from the study
+without giving a reason within 3 days following completion, and that after 
+this time it may not be technically possible to withdraw your data?",likert,Agree,1,No,70%,yes,
+cam_consent_5,"5. Do you give permission for your data from this study to be shared with 
+other researchers in the future provided that your anonymity is protected?",likert,Agree,1,No,70%,yes,
+cam_consent_6,"6. Do you understand that non-identifiable data from this study including 
+quotations might be used in academic research reports or publications?",likert,Agree,1,No,70%,yes,
+cam_consent_7,7. I confirm that I am 18 years old or over.,likert,Agree,1,No,70%,yes,
+cam_consent_8,"If you would like a summary of the research findings please insert your email address in 
+this text box.",text,,,,,,
+cam_consent_9,"If you would like to enter the prize draw to win £25, please insert your email address in this 
+text box.",text,,,,,,
+,,,,,,,,

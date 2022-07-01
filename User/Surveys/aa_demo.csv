@@ -1,0 +1,6 @@
+item_name,text,Type,Answers,Optional,Values,side_by_side,
+Gender,Gender,likert,Male|Female|Other|Prefer not to say,No,,yes
+Age,Age (years),Number,,No,,
+RPS,Do you have your RPS number?,likert,Yes|No,No,,yes,
+RPS_score,"If yes, please enter your RPS number",text,,Yes,,,
+,,,,,,,

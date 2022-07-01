@@ -1,0 +1,58 @@
+item_name,text,Type,Answers,Values,Optional,side_by_side,
+Instructions1,"<h1>PARTICIPANT INFORMATION SHEET </h1>
+
+<h2>Who is doing this research? </h2>
+The research will be conducted by Thujageni Nimalraj, a third year Psychology Student studying for a BSc (Hons) Psychology at De Montfort University, Leicester. <br><br>
+
+<h2>What is the research about? </h2>
+I am conducting an online study using a questionnaire and experimental based design, looking at social anxiety and autistic traits in typical adults and how this influences social avoidant behaviour. <br><br>
+
+<h2>Why am I being invited to participate? </h2>
+For this study, we are looking for participants who are over the age of 18 and participants who have normal or corrected to normal vision. <br><br>
+
+<h2>What are you asking of me? </h2>
+I am asking you to take part in an online study with three questionnaires paired with a task lasting about 45 minutes and I will ask you some questions about social anxiety and autistic traits paired with an approach-avoidance task.  <br><br>
+
+<h2>What if I want to drop out? </h2>
+If you wish to drop out at any stage during participation in the study, you are free to do so and will not be asked to give a reason. You can withdraw by closing the internet browser and contacting the researcher. If you wish to withdraw your data after the study you can do this, without any impending consequences, up to two weeks after participation. Should you wish to withdraw your data in this time, please contact the researcher using the details provided below and quote your unique participant ID. <br><br>
+
+<h2>Will the information I give you be kept confidential? </h2>
+All information collected will be treated with the strictest confidence throughout the study.  The information obtained in the study will be anonymous and IP addresses will not be recorded. Data will be stored securely and at the end of my dissertation it will be handed over to my supervisor for safekeeping. Once my final grade has been confirmed, data will be disposed of securely or, in the case of publication, anonymous non-identifiable data will be kept for a longer period of time in-line with institutional and publisher requirements. <br><br>
+
+<h2>What if I am upset by anything during the course of the study? </h2>
+If this happens, you might like to take a break, or if you prefer, you can decide to end your participation and withdraw from the study at that point. If you decide to withdraw, you will be taken to the debrief page. The debrief page contains information about appropriate sources of support which you can access if there is anything about your own life experiences you wish to talk about in confidence. <br><br>
+
+<h2>Who will have access to the data? </h2>
+The researcher, the researcher’s supervisor, markers from the Division of Psychology, and possibly an external examiner will have access to the data. There is also a possibility that the results could be written up for publication (e.g., in academic journals etc.). In this situation, only relevant researchers will have access to the anonymous data, and the anonymous data might be uploaded to an online repository. In all instances, anonymity of individual participants will be assured. <br><br>
+
+<h2>Who will see the finished report? </h2>
+All data in the finished report will be presented in the form of group statistics. The final report will be seen by the researcher’s supervisor and a second marker from the Division of Psychology and may been seen by an external examiner.  In addition, the completed report may also be made available to future De Montfort University students for teaching purposes. <br><br>
+
+<h2>Who has given approval for this study? </h2>
+Approval for this study has been granted by the De Montfort University, Division of Psychology, Ethics Management Committee. <br><br>
+
+<h2>What if something goes wrong? / Who can I complain to? </h2>
+If you have a complaint regarding anything to do with this study, you can approach either the lead researcher, or the researcher’s supervisor; supervisor contact details are given below. <br><br>
+
+<h2>Is there anyone I can talk to about the study before I take part? </h2>
+Before taking part in the study you can email me with any questions you have using the contact details below. If you wish to talk to someone else about my study then please feel free to contact my project supervisor. <br><br>
+
+<h2>I know a friend who may be interested; can s/he participate in your study? </h2>
+Yes certainly as long as your friend meets the criteria mentioned above. Your friend can contact me directly to discuss the study if they wish. My contact details are given below. <br><br>
+
+<h2>If you have any further questions, please do not hesitate to contact me. My contact details are as follows: </h2> <br><br>
+
+<h2>Researcher’s contact details: </h2> 				
+Thujageni Nimalraj <br>				  	
+Email: thujageni.nimalraj@my365.dmu.ac.uk <br>
+
+<h2>Supervisor's contact details </h2>
+Dr Indu Dubey <br>
+Email: indu.dubey@dmu.ac.uk<br>
+De Montfort University<br>			
+Division of Psychology<br>			
+Hawthorn Building Room No. HB0.35<br>				
+The Gateway<br> 						
+Leicester LE1 9BH<br>",Instruct,,,,,
+Info_Accept,I understand these instructions and am happy to continue,likert,Agree,1,No,yes,
+,,,,,,,

@@ -1,0 +1,2 @@
+item,phasetype,max_time,text,shuffle_1,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,
+2 to 61,cam_uncertainty,user,This is the start of a new experiment.,trials,https://dl.dropbox.com/s/nqicz7h0pynhdg2/red.jpg?dl=0,https://dl.dropbox.com/s/4xts1cfxy72xfdq/blue.jpg?dl=0,https://dl.dropbox.com/s/3i2armyx6gnb5xj/lock1%20%28edited-Pixlr%29.jpg?dl=0,1000,https://dl.dropbox.com/s/pl2g9qf13okyu2m/lock1_crossed_out.jpg?dl=0,red,blue,social,nonsocial,Press Z to unlock,Press M to unlock,

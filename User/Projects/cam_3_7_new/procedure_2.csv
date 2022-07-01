@@ -1,0 +1,23 @@
+item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,
+0,instruct,,"<video width=""600"" height=""400"" controls>
+  <source src=""../User/Stimuli/cam/cam_social_2.mp4"" type=""video/mp4"">
+  Your browser does not support the video tag.
+</video>",off,,,,,,,,,,,,,
+0,survey,,,off,cam_info,,,,,,,,,,,,
+0,survey,,,off,cam_consent,,,,,,,,,,,,
+0,survey,,,off,cam_demographics,,,,,,,,,,,,
+0,instruct,,"<span style=""font-size:20px""><b>You will see two boxes with locks</span></b><br>
+<span style=""font-size:20px""><b>One box has videos of people while other has videos of household objects</span></b><br><br>
+<span style=""font-size:20px""><b>Open the locks to see a video</span></b><br>
+<span style=""font-size:20px""><b>You can choose freely which locks to open</span></b><br><br>
+<span style=""font-size:20px""><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>
+<span style=""font-size:20px""><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>
+<span style=""font-size:20px""><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>
+<span style=""font-size:20px""><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>",off,,,,,,,,,,,,,
+2 to 31,cam_3,,,trial,,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,blue,red,social,nonsocial,Press Z to unlock,Press M to unlock,
+32 to 61,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,nonsocial,social,Press Z to unlock,Press M to unlock,
+0,survey,,,off,autism_quotient,,,,,,,,,,,,
+0,survey,,,off,sas_ant.csv,,,,,,,,,,,,
+0,instruct,,"<span style=""font-size:40px""><b>You've completed this part of the study! </span></b><br><br> 
+<span style=""font-size:25px""><b>You will receive a debrief of this study in an email.</span></b><br><br>
+<span style=""font-size:25px""><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",off,,,,,,,,,,,,,
